@@ -1,6 +1,6 @@
 # Algorithm Practise: IPv6 EUI-64
 
-__Live Version__ An interactive webpage can be found [here](https://de-mark.github.io/algorithm_ipv6-eui-64/)
+__Live Version__ An interactive webpage can be found [here](https://dsp-mark.github.io/algorithm_ipv6-eui-64/)
 
 ## What is EUI-64?
 
@@ -53,7 +53,7 @@ While studying, I had trouble wrapping my head around the creation of unique ids
 
 ![Live webpage displaying the transformation of a MAC address to an Interface ID](./screenshots/basic_eui_functionality.png)
 
-Since the algorithm is simple enough (subsetting, translation into binary, and inversion), the program is written in JavaScript and hooked up to a webpage (located [here](https://de-mark.github.io/algorithm_ipv6-eui-64/)).
+Since the algorithm is simple enough (subsetting, translation into binary, and inversion), the program is written in JavaScript and hooked up to a webpage (located [here](https://dsp-mark.github.io/algorithm_ipv6-eui-64/)).
 
 The website has two options: EUI-64 or Random Interface ID creation.
 
